@@ -19,7 +19,7 @@ I am a versatilist and easily adapt to different hats (Front-End Developer(React
 
 ### Connect with me:
 
-[![website](./img/linkedin-light.svg)](www.linkedin.com/in/vishal-parjapat)
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/vishal-parjapat/)
 &nbsp;&nbsp;
 [![website](./img/instagram-light.svg)](https://www.instagram.com/vishalparjapat_10)
 
