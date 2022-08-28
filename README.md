@@ -12,6 +12,7 @@ I am a versatilist and easily adapt to different hats (Front-End Developer(React
 - 🔭 &nbsp; I’m currently working on **Instagram Reels Clone**
 - 🤝 &nbsp;  I’m looking to collaborate on exciting projects which helps us to make our lives more efficient
 - 📫 &nbsp;How to reach me , you can email me at vishalparjapat12527@gmail.com
+- 💻 &nbsp;I am actively looking for jobs for the role of Front-E
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help;
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](www.linkedin.com/in/vishal-parjapat/)
 - 📚 &nbsp; When I am free, I watch comedy,adventurous and action movies.
