@@ -9,7 +9,7 @@ I am a versatilist and easily adapt to different hats (Front-End Developer(React
 
 ### 🧐 More About Me:
 
-- 🔭 &nbsp; I’m currently working on **Twitter Project**
+- 🔭 &nbsp; I’m currently working on **Code STACKr Project**
 - 🤝 &nbsp;  I’m looking to collaborate on exciting projects which helps us to make our lives more efficient
 - 📫 &nbsp;How to reach me , you can email me at vishalparjapat12527@gmail.com
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help;
