@@ -9,7 +9,7 @@ I am a versatilist and easily adapt to different hats (Front-End Developer(React
 
 ### 🧐 More About Me:
 
-- 🔭 &nbsp; I’m currently working on **Instagram Reels Clone**
+- 🔭 &nbsp; I’m currently working on **GymExercises App**
 - 🤝 &nbsp;  I’m looking to collaborate on exciting projects which helps us to make our lives more efficient
 - 📫 &nbsp;How to reach me , you can email me at vishalparjapat12527@gmail.com
 - 💻 &nbsp;I am actively looking for jobs for the role of Front-End Developer(React.js).
